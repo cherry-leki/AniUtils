@@ -1,3 +1,6 @@
 [submodule "Maya/JointReorientation"]
 	path = Maya/JointReorientation
 	url = https://github.com/cherry-leki/JointReorientation.git
+[submodule "MB/MBMotionRetargeting"]
+	path = MB/MBMotionRetargeting
+	url = https://github.com/cherry-leki/MBMotionRetargeting.git
