@@ -8,7 +8,7 @@
 * Numpy
 
 ## UI
-![ui](Retargeting/assets/ui_sample.png)
+![ui](assets/ui_sample.png)
 ### Data setting
 * Enter the path manually or by clicking the "O" button to browse using File Explorer.
 
